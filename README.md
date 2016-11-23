@@ -1,15 +1,7 @@
-## Short Skirt
-  And a long jacket.
+## Oh, Ruby
 
-Ruby:
-  ruby 2.3.1p112
-  (2016-04-26 revision 54768) [x86_64-darwin16]
-  /Users/slyarb/.rvm/rubies/ruby-2.3.1/bin/ruby
+  Review and practice run of basic Rails application.
+  Warm-up exercise from installation to execution.
 
-Homebrew:
-  Homebrew 1.1.1
-    Homebrew/homebrew-core
-    (git revision 71a8; last commit 2016-11-19)
-
-Rails:
-  Rails 5.0.0.1
+  Short Skirt.
+  Long jacket.
